@@ -1,11 +1,11 @@
 {
-  "name": "team-project-filmoteka",
+  "name": "team-project-filmoteka-gr5",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Vitalii-Khivrych.github.io/team-project-filmoteka",
+  "homepage": "https://nataliadelicheban.github.io/team-project-filmoteka-gr5",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-filmoteka/"
+    "build": "parcel build src/*.html --public-url /team-project-filmoteka-gr5/"
   },
   "repository": {
     "type": "git",
